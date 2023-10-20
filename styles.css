@@ -29,7 +29,7 @@
     display: grid;
     justify-content: center;
     min-width: 1440px;
-    background-image:url('file:///C:/Users/tamiz/OneDrive/Desktop/kodehode/module%20b/html/base-apparel-coming-soon-master/base-apparel-coming-soon-master/images/bg-pattern-desktop.svg');
+    background-image:url('/images/bg-pattern-desktop.svg');
   }
   
 
